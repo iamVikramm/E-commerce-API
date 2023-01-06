@@ -1,0 +1,35 @@
+{
+    "items":[
+        {"id":"1","itemName":"Macbook Pro","price":"120,000","rating":"4.5","description":"Good laptop with latest processor, fast and budget friendly","image":"https://m.media-amazon.com/images/I/71jG+e7roXL._SX522_.jpg"},
+        {"id":"2","itemName":"Sony Tv","price":"55,000","rating":"4.2","description":"4kUHD TV with in-bulit OTT apps","image":"https://m.media-amazon.com/images/I/714MfYgM9rL._SL1500_.jpg"},
+        {"id":"3","itemName":"Brown Chair","price":"3,000","rating":"4.0","description":"Very comfortable and fancy looking chair","image":"https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/OHL-creatives-2022/440x460_1.jpg"},
+        {"id":"4","itemName":"Jay shetty Book","price":"1,500","rating":"4.8","description":"This book will change your thinking and perspective","image":"https://m.media-amazon.com/images/I/81s6DUyQCZL.jpg"},
+        {"id":"5","itemName":"Study Table","price":"10,000","rating":"4.7","description":"This is a study table with good storage space as well","image":"https://images.woodenstreet.de/image/data/study-table/jerold-study-table/updated/walnut/updated/1.jpg"},
+
+        {"id":"6","itemName":"Pedigree","price":"620","rating":"4.5","description":"Your dog will love this","image":"https://images.jdmagicbox.com/quickquotes/images_main/pedigree-adult-vegetarian-3-kg-240052813-m1tbw.jpg"},
+        {"id":"7","itemName":"Iphone 14 pro","price":"129,999","rating":"4.7","description":"Dynamic island a new way to interact with the iphone","image":"https://www.reliancedigital.in/medias/Apple-MLPF3HN-A-Smart-Phone-491997699-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNTU5NTZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDU5L2hlOC85ODc4MDkwMDg4NDc4LmpwZ3wxNGQzODYyZWJiYjYwZDVjZjNhM2Q5YzQ4ZmE5OTljMmZiYmM2MDE0ZjE1YzhhMTRmYjM2ZDkzZGEyODcxNTU2"},
+        {"id":"8","itemName":"Google Nest Audio","price":"19,500","rating":"4.8","description":"A google voice assistant","image":"https://m.media-amazon.com/images/I/919iWkbF8TL._SX679_.jpg"},
+        {"id":"9","itemName":"Crocs","price":"1,800","rating":"4.8","description":"Very stylish and comfortable","image":"https://rukminim1.flixcart.com/image/832/832/xif0q/sandal/f/m/m/-original-imagg4znachwqwtn.jpeg?q=70"},
+        {"id":"10","itemName":"Natural mixed fruit juice","price":"300","rating":"4.7","description":"natural juice with no added ingredients","image":"https://m.media-amazon.com/images/I/91Zz6QbhjdL._SL1500_.jpg"},
+
+        {"id":"11","itemName":"Home decor dog","price":"2,000","rating":"4.5","description":"Premium looking home decor","image":"https://www.whiteteak.com/media/fishpig/webp/catalog/product/cache/4f9684b790a78d2ad48602ec5021b7a8/d/c/dc22-10005_5_.webp"},
+        {"id":"12","itemName":"LG Refrigirator","price":"100,000","rating":"4.2","description":"double door fridge with convertable option","image":"https://www.reliancedigital.in/medias/LG-GC-L257SL4L-Refrigerator-492864859-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNTc4NHxpbWFnZS9qcGVnfGltYWdlcy9oNmUvaDQ0Lzk4MzcwMDY5NzkxMDIuanBnfDNkMzU5ZGY3NWE3YTcyMDdjODVkYjNhYWM5NGVhMDE4OTI0MzQ4ZjYyYmU2MDMyZjUyMDA5N2RkMTBhMGFkOTI"},
+        {"id":"13","itemName":"Google Pixel watch","price":"30,500","rating":"4.8","description":"Google Pixel watch with Android, Fitbit activity tracking ","image":"https://m.media-amazon.com/images/I/61GWeXVQSdL._SX679_.jpg"},
+        {"id":"14","itemName":"DO EPIC SHIT","price":"500","rating":"4.8","description":"This book will change your thinking and perspective","image":"https://m.media-amazon.com/images/I/51jJ0ka26AL.jpg"},
+        {"id":"15","itemName":"Atomberg Mixer Grinder","price":"9,000","rating":"4.7","description":"Atomber MG1 India's first mixergrinder with inverter technology","image":"https://media.atomberg.com/media/catalog/product/1/_/1_mg_plis_black.jpg?auto=webp&format=pjpg&width=135&height=170&fit=cover"},
+
+        {"id":"16","itemName":"Ivory Backpack","price":"3,499","rating":"4.5","description":"Ivory Travel kit bag","image":"https://images.dailyobjects.com/marche/product-images/1201/natural-white---navy-9-to-9-backpack-images/Natural-White-Navy-9-to-9-Backpack.png?tr=cm-pad_resize,v-2,w-720,h-774,dpr-1"},
+        {"id":"17","itemName":"Nivia Football","price":"500","rating":"4.2","description":"Good strength football","image":"https://m.media-amazon.com/images/I/61RpRYFb2wL._AC_UL480_FMwebp_QL65_.jpg"},
+        {"id":"18","itemName":"Yoga Mat","price":"2,500","rating":"4.0","description":"A yoga mat with good strength and grip","image":"https://m.media-amazon.com/images/I/71sAPdeLHWL._SX679_.jpg"},
+        {"id":"19","itemName":"Milton Stainless Steel Water Bottle","price":"500","rating":"4.8","description":"Keeps the temperature as it is for about 8hrs","image":"https://m.media-amazon.com/images/I/61m9tTS9aLL._SY879_.jpg"},
+        {"id":"20","itemName":"Agaro Toaster","price":"3,000","rating":"4.7","description":"Bread Toaster","image":"https://m.media-amazon.com/images/I/61Ll40Jd0NL._SX679_.jpg"},
+
+        {"id":"21","itemName":"Boat Headphones","price":"3,499","rating":"4.5","description":"boat headphones with 40mm driver and 15 hours of playback time","image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/7499af44-9d7a-489c-80f0-51f7799289e4_600x.png?v=1625045491"},
+        {"id":"22","itemName":"Google Pixel 7Pro","price":"75,000","rating":"4.9","description":"High quality processor and premium looks","image":"https://m.media-amazon.com/images/I/51f4A6Tr8zL._SX679_.jpg"},
+        {"id":"23","itemName":"LED Vanity Light","price":"4,500","rating":"4.0","description":"Premium looking light with bright lighting ","image":"https://www.whiteteak.com/media/fishpig/webp/catalog/product/cache/4f9684b790a78d2ad48602ec5021b7a8/w/l/wl54-10008_2__1.webp"},
+        {"id":"24","itemName":"Brown Leather jacket","price":"2,000","rating":"4.2","description":"Very comfortable and fancy looking jacket","image":"https://images-cdn.ubuy.co.in/633aad7eb82bf1395a1d4eef-men-brown-leather-motorcycle-jacket-with.jpg"},
+        {"id":"25","itemName":"Bean Bag","price":"3,000","rating":"4.7","description":"Comfortable bean bag with footrest and cushion","image":"https://m.media-amazon.com/images/I/61XNLCLry9L._SX679_.jpg"}
+    ]
+
+    
+}
